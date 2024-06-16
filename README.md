@@ -48,7 +48,7 @@
     </td>
   </tr> 
 </table>
-<h4 align="left">Бекенд:</h4>
+<h4 align="left">Бэкенд:</h4>
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
