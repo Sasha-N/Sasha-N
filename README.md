@@ -12,7 +12,7 @@
 
 - 🌱 3 года работы с **Angular**
 
-- 🔭 Учебный проект на **React** был в **ШРИ Яндекса** 
+- 🔭 Последний пет-проект на **React**: [описание](https://www.youtube.com/watch?v=pMTkycoIm0I&list=PLku8GMjugJ8jd-ZJ44tr7KtWR5ocSVHiV) и [код](https://github.com/Sasha-N/pots)
 
 - 👨‍💻 Все мои пет-проекты находятся тут [https://github.com/Sasha-N?tab=repositories](https://github.com/Sasha-N?tab=repositories)
 
